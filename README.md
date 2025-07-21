@@ -55,7 +55,7 @@ A modern, responsive **Cab Booking Platform** built using **Tailwind CSS** and *
 ## 📂 How to Run Locally
 
 1. Clone or download this repository.
-2. Open the `index.html` file directly in your browser.
+2. Open the `cab_booking.html` file directly in your browser.
 3. Explore the booking process and UI features.
 
 ---
