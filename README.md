@@ -66,9 +66,6 @@ A modern, responsive **Cab Booking Platform** built using **Tailwind CSS** and *
 
 ---
 
-## 📷 Screenshots
-
-*(Optional: Add UI screenshots or GIFs here.)*
 
 ---
 
