@@ -52,12 +52,6 @@ A modern, responsive **Cab Booking Platform** built using **Tailwind CSS** and *
 
 ---
 
-## 📲 Live Demo
-
-*(Optional: Add your deployed project link here.)*
-
----
-
 ## 📂 How to Run Locally
 
 1. Clone or download this repository.
