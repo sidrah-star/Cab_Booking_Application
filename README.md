@@ -69,8 +69,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Let me know if you'd like:
 
-* A **shorter README**
-* A **complete code template**
-* Instructions for deploying it live via GitHub Pages or Netlify
